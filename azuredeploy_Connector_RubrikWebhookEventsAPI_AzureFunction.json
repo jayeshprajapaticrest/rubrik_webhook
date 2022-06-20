@@ -9,7 +9,7 @@
             "type": "string"
         },
         "WorkspaceID": {
-            "type": "string",
+            "type": "securestring",
             "defaultValue": "<workspaceID>"
         },
         "WorkspaceKey": {
