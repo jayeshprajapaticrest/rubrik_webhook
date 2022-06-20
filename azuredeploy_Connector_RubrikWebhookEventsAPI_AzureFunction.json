@@ -13,7 +13,7 @@
             "defaultValue": "<workspaceID>"
         },
         "WorkspaceKey": {
-            "type": "password",
+            "type": "string",
             "defaultValue": "<WorkspaceKey>"
         },
         "RansomwareAnalysis_table_name": {
